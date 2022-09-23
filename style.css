@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(148, 59, 183);
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.logo {
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
